@@ -5,6 +5,10 @@ ns-3 is a discrete network simulator
 
 **website:** https://www.nsnam.org/
 
+### OSX Prereqs
+- Docker
+- [XQuartz](https://dl.bintray.com/xquartz/downloads/XQuartz-2.7.11.dmg)
+
 ### OSX Setup 
 
 1. In the XQuartz preferences -> “Security” and make sure you’ve got “Allow connections from network clients” ticked
